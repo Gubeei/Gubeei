@@ -1,4 +1,4 @@
-## Hi there 👋
+## Uh a games website project. idk  
 
 <!--
 **Gubeei/Gubeei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
